@@ -13,5 +13,5 @@ https://github.com/CitronsBlog/Introduced Introduced<br/>
 ## 项目内容
 这个是一次CS360的实验作业，实验要求是制作一个个人主页，能包含足够的个人信息，完成基本的页面跳转，实现主页、个人介绍、作品集、联系方式、注册和登陆页面（仅页面）。
 
-##预览
+## 预览
 https://endven.github.io/HTML_Homepage/Self-homepage/index.html
